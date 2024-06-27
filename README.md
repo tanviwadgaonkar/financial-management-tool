@@ -1,4 +1,5 @@
 Here's a detailed description of your finance management tool project, including an overview of its purpose, features, and the technology stack used:
+![image](https://github.com/tanviwadgaonkar/financial-management-tool/assets/156992817/b4d6ae5b-ad36-46fe-be90-57efdc088d6d)
 
 ### Finance Management Tool
 
@@ -83,4 +84,3 @@ The Finance Management Tool is a web-based application designed to help users ef
 - **Machine Learning:** Implement machine learning algorithms for predictive analytics and personalized financial advice.
 - **Multi-language Support:** Add support for multiple languages to cater to a broader audience.
 
-This detailed description should give a clear understanding of your finance management tool, its features, and the technologies used in its development. If you need further details or have specific aspects you want to elaborate on, feel free to let me know!
