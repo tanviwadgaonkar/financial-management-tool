@@ -2,6 +2,8 @@ Here's a detailed description of your finance management tool project, including
 ![image](https://github.com/tanviwadgaonkar/financial-management-tool/assets/156992817/b4d6ae5b-ad36-46fe-be90-57efdc088d6d)
 
 ### Finance Management Tool
+THE UI 
+![image](https://github.com/tanviwadgaonkar/financial-management-tool/assets/156992817/2b07c0f8-c4a7-4334-bb0f-ae6efd57f674)
 
 #### Overview
 
